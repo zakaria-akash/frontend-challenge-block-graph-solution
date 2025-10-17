@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --pink-bg: #f5d7f0;
+  --hot-pink: #ff0080;
+  --light-pink: #ffc0e0;
+}
